@@ -1,13 +1,16 @@
 /**
- * @name Lotus ~ pastel pink ~ Discord
+ * @name Lotus ~ PASTEL PINK
+ * @description Allows you to customize Discord's native Color Scheme.
  * @author Lisatjehh
  * @version 1.0.0
- * @website https://jwzlisa.github.io/
- * @source https://github.com/JwzLisa/Lotus-PinkDiscordTheme/tree/main
- * @invite atnroleplay
+ * @authorId 278543574059057154
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 
 :root {
   --accentcolor: 255,235,235;
