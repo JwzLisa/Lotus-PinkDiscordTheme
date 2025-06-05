@@ -7,3 +7,5 @@ You can edit all the colors to YOUR liking if you want to make any changes!
 All you have to do is just change the rgb codes to the colors you want.
 
 i hope you guys enjoy it as much as i do! :)
+
+(credits to  https://mwittrien.github.io/ for the template, appreciate your work!)
